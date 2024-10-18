@@ -209,19 +209,3 @@ Contributions are what make the open source community such an amazing place to b
 ## 🎫 License
 
 Distributed under the MIT License. See [`LICENSE`](https://github.com/mak-thevar/core-webapi-boilerplate/blob/master/LICENSE) for more information.
-
-<!-- CONTACT -->
-## 📱 Contact
-
-Name - [Muthukumar Thevar](#) - mak.thevar@outlook.com
-
-Project Link: [https://github.com/mak-thevar/core-webapi-boilerplate](https://github.com/mak-thevar/core-webapi-boilerplate)
-
-
-[contributors-shield]: https://img.shields.io/github/contributors/mak-thevar/core-webapi-boilerplate.svg?style=flat-square
-[contributors-url]: https://github.com/mak-thevar/core-webapi-boilerplate/graphs/contributors
-
-[issues-shield]: https://img.shields.io/github/issues/mak-thevar/core-webapi-boilerplate.svg?style=flat-square
-[issues-url]: https://github.com/mak-thevar/core-webapi-boilerplate/issues
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/mak11/
